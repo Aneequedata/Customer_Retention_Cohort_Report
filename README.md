@@ -1,5 +1,7 @@
 # 📊 Customer Retention Cohort Analysis (Power BI)
 
+https://app.powerbi.com/links/M4MEpd408D?ctid=463183f4-15eb-4683-b80c-f0738cdb2f8e&pbi_source=linkShare
+
 This **Power BI project** performs **Customer Retention Cohort Analysis** using **DAX measures** and **Power Query transformations**. The report contains **two matrix visuals**:
 1. **Customer Retention Volume** – Displays the absolute number of retained customers.
 2. **Customer Retention Percentage** – Shows the percentage of customers retained per cohort.
